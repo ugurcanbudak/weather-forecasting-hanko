@@ -8,7 +8,7 @@ The project involves:
 - Loading and preprocessing weather data.
 - Normalizing the data.
 - Preparing sequences for LSTM input.
-- Building and tuning an LSTM model using Keras Tuner.
+- Building and hyperparameter tuning the LSTM model using Keras Tuner.
 - Training and evaluating the model.
 
 ## Installation
